@@ -1,4 +1,4 @@
-# Processor EICMC
+# EICMC Processor
 
 ### E*xtented*
 ### I*CMC*

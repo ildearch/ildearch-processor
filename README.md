@@ -5,6 +5,8 @@
 ### C*omputing*
 ### M*a*C*hine*
 
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](./README.pt-br.md)
+
 This is an attempt at an updated version of building a microprocessor following a similar architecture as
 the [Processador-ICMC](https://github.com/simoesusp/Processador-ICMC).
 
@@ -21,7 +23,7 @@ but the testbench code will be in VHDL)
   - serial interface (again, based on [this Ben Eater's video](https://www.youtube.com/watch?v=7aXbh9VUB3U))
   - PS/2 interface (guess what, based on [this other Ben Eater's video](https://www.youtube.com/watch?v=l7rce6IQDWs))
   - sound card ([maybe?](https://en.wikipedia.org/wiki/Sound_card), some FPGAs do have audio jacks...)
-- create non FPGA specific macro components (micropocessor, video card, serial interface, ...) that can then be
+- create non FPGA specific macro components (microprocessor, video card, serial interface, ...) that can then be
 choosen to be added on the top-level entity.
 
 ## Currently Implemented

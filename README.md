@@ -1,9 +1,9 @@
 # Processor EICMC
 
-**E**xtented
-**I**CMC
-**C**omputing
-**M**a**C**hine
+### E*xtented*
+### I*CMC*
+### C*omputing*
+### M*a*C*hine*
 
 This is an attempt at an updated version of building a microprocessor following a similar architecture as
 the [Processador-ICMC](https://github.com/simoesusp/Processador-ICMC).
